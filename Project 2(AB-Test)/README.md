@@ -1,6 +1,6 @@
 # Проект по А/B-тестированию
 
-[PDF](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%202(AB-Test)/Project%202.pdf)   
+[PDF](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%202(AB-Test)/Project%202.pdf)  
 [ipynb](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%202(AB-Test)/Project%202.ipynb)
 
 ## Описание проекта:
