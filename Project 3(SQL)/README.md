@@ -1,6 +1,6 @@
 # SQL - проект
 
-[PDF](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%203(SQL)/Project%203.pdf)
+[PDF](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%203(SQL)/Project%203.pdf)  
 [ipynb](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%203(SQL)/Project%203.ipynb)
 
 ## Описание проекта:
