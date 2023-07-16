@@ -20,6 +20,7 @@
 - **seaborn**
 - **datetime**
 - **plotly**
+- **Tableau**
 
 ## Сфера проекта:
 
