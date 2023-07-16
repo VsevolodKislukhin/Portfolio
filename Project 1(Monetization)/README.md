@@ -1,6 +1,6 @@
 # Проект по формированию монетизации игры:
 
-[PDF](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html)     
+[PDF](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%201(Monetization)/Project%201.pdf) 
 [ipynb](https://github.com/VsevolodKislukhin/Portfolio/blob/main/Project%201(Monetization)/Project%201.ipynb)
 
 ## Описание проекта:
